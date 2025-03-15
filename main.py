@@ -1,7 +1,7 @@
 import streamlit as st
 
 # Objective:
-st.title("Text Analyzer")
+st.title("📝Text Analyzer")
 
 # 1- Assignment Instructions
 st.write("This is a simple text analyzer that performs the following functions:")
